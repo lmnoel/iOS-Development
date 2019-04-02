@@ -1,0 +1,146 @@
+[
+    {
+        ":@computed_region_6mkv_f3dw": "21202",
+        ":@computed_region_bdys_3d7i": "705",
+        "latitude": "41.714739000000002",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.527356,
+                41.714739
+            ]
+        },
+        "longitude": "-87.527355999999997",
+        "sensor_name": "Calumet Beach",
+        "sensor_type": "Water"
+    },
+    {
+        ":@computed_region_43wa_7qmu": "33",
+        ":@computed_region_6mkv_f3dw": "22260",
+        ":@computed_region_awaf_s7ux": "32",
+        ":@computed_region_bdys_3d7i": "469",
+        ":@computed_region_vrxf_vc4k": "9",
+        "latitude": "41.780991999999998",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.572619,
+                41.780992
+            ]
+        },
+        "longitude": "-87.572619000000003",
+        "sensor_name": "63rd Street Weather Station",
+        "sensor_type": "Weather"
+    },
+    {
+        ":@computed_region_6mkv_f3dw": "22260",
+        ":@computed_region_bdys_3d7i": "469",
+        "latitude": "41.784560999999997",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.571453,
+                41.784561
+            ]
+        },
+        "longitude": "-87.571453000000005",
+        "sensor_name": "63rd Street Beach",
+        "sensor_type": "Water"
+    },
+    {
+        ":@computed_region_43wa_7qmu": "11",
+        ":@computed_region_6mkv_f3dw": "21182",
+        ":@computed_region_awaf_s7ux": "22",
+        ":@computed_region_bdys_3d7i": "105",
+        ":@computed_region_vrxf_vc4k": "37",
+        "latitude": "41.901997000000001",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.622817,
+                41.901997
+            ]
+        },
+        "longitude": "-87.622816999999998",
+        "sensor_name": "Oak Street Weather Station",
+        "sensor_type": "Weather"
+    },
+    {
+        ":@computed_region_43wa_7qmu": "16",
+        ":@computed_region_6mkv_f3dw": "22616",
+        ":@computed_region_awaf_s7ux": "40",
+        ":@computed_region_bdys_3d7i": "635",
+        ":@computed_region_vrxf_vc4k": "31",
+        "latitude": "41.976464",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.647525,
+                41.976464
+            ]
+        },
+        "longitude": "-87.647525000000002",
+        "sensor_name": "Foster Weather Station",
+        "sensor_type": "Weather"
+    },
+    {
+        ":@computed_region_6mkv_f3dw": "21186",
+        ":@computed_region_bdys_3d7i": "636",
+        "latitude": "41.969093999999998",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.638003,
+                41.969094
+            ]
+        },
+        "longitude": "-87.638002999999998",
+        "sensor_name": "Montrose Beach",
+        "sensor_type": "Water"
+    },
+    {
+        ":@computed_region_6mkv_f3dw": "4451",
+        ":@computed_region_bdys_3d7i": "14",
+        "latitude": "41.987675000000003",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.651008,
+                41.987675
+            ]
+        },
+        "longitude": "-87.651008000000004",
+        "sensor_name": "Osterman Beach",
+        "sensor_type": "Water"
+    },
+    {
+        ":@computed_region_6mkv_f3dw": "21182",
+        ":@computed_region_bdys_3d7i": "159",
+        "latitude": "41.894328000000002",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.613083,
+                41.894328
+            ]
+        },
+        "longitude": "-87.613083000000003",
+        "sensor_name": "Ohio Street Beach",
+        "sensor_type": "Water"
+    },
+    {
+        ":@computed_region_6mkv_f3dw": "22538",
+        ":@computed_region_bdys_3d7i": "421",
+        "latitude": "41.760147000000003",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -87.550081,
+                41.760147
+            ]
+        },
+        "longitude": "-87.550081000000006",
+        "sensor_name": "Rainbow Beach",
+        "sensor_type": "Water"
+    }
+]

@@ -1,0 +1,67 @@
+[{
+    "battery_life": "9.4",
+    "beach_name": "Ohio Street Beach",
+    "measurement_id": "OhioStreetBeach201903131000",
+    "measurement_timestamp": "2019-03-13T10:00:00.000",
+    "measurement_timestamp_label": "03/13/2019 10:00 AM",
+    "turbidity": "2.34",
+    "water_temperature": "2.22",
+    "wave_height": "1.354",
+    "wave_period": "2"
+    },
+    {
+        "battery_life": "9.4",
+        "beach_name": "Calumet Beach",
+        "measurement_id": "CalumetBeach201903131000",
+        "measurement_timestamp": "2019-03-13T10:00:00.000",
+        "measurement_timestamp_label": "03/13/2019 10:00 AM",
+        "turbidity": "2.34",
+        "water_temperature": "3.7",
+        "wave_height": "0.872",
+        "wave_period": "4"
+    },
+    {
+        "battery_life": "9.4",
+        "beach_name": "63rd Street Beach",
+        "measurement_id": "63rdStreetBeach201903131000",
+        "measurement_timestamp": "2019-03-13T10:00:00.000",
+        "measurement_timestamp_label": "03/13/2019 10:00 AM",
+        "turbidity": "2.34",
+        "water_temperature": "-0.8",
+        "wave_height": "0.631",
+        "wave_period": "4"
+    },
+    {
+        "battery_life": "9.4",
+        "beach_name": "Montrose Beach",
+        "measurement_id": "MontroseBeach201903131000",
+        "measurement_timestamp": "2019-03-13T10:00:00.000",
+        "measurement_timestamp_label": "03/13/2019 10:00 AM",
+        "turbidity": "2.34",
+        "water_temperature": "1.78",
+        "wave_height": "0.053",
+        "wave_period": "3"
+    },
+    {
+        "battery_life": "9.4",
+        "beach_name": "Osterman Beach",
+        "measurement_id": "OstermanBeach201903131000",
+        "measurement_timestamp": "2019-03-13T10:00:00.000",
+        "measurement_timestamp_label": "03/13/2019 10:00 AM",
+        "turbidity": "2.34",
+        "water_temperature": "3.07",
+        "wave_height": "0.235",
+        "wave_period": "4"
+    },
+    {
+        "battery_life": "9.4",
+        "beach_name": "Rainbow Beach",
+        "measurement_id": "RainbowBeach201903131000",
+        "measurement_timestamp": "2019-03-13T10:00:00.000",
+        "measurement_timestamp_label": "03/13/2019 10:00 AM",
+        "turbidity": "2.34",
+        "water_temperature": "2.19",
+        "wave_height": "0.115",
+        "wave_period": "5"
+    }
+]
